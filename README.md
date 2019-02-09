@@ -32,10 +32,6 @@ If you want to run the client **using** python:
 
 *`python3 client.py`
 
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
 ## Credits
 Thanks to Bucky for giving me someplace to get started with this project. [Bucky's Youtube](https://www.youtube.com/user/thenewboston)
 Thanks to port443 on reddit for helping me fix a lot of my code. [port443's Reddit](https://www.reddit.com/user/port443)
