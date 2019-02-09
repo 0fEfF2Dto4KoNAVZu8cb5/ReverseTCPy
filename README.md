@@ -14,9 +14,9 @@ I started this project for three main reasons:
 Listener:
 If you need to change the port or host IP, then open it with a text editor.
 
-*`git clone https://github.com/mcgrenoa/python-reverse-tcp`
-*`cd ReverseTCPy`
-*`python3 listener.py`
+* `git clone https://github.com/mcgrenoa/python-reverse-tcp`
+* `cd ReverseTCPy`
+* `python3 listener.py`
 
 Client:
 If you need to change the port or host IP, then open it with a text editor. 
@@ -26,11 +26,11 @@ Pyinstaller can be found [here](https://www.pyinstaller.org/).
 
 To package the client with pyinstaller:
 
-*`pyinstaller -D -w path/to/file/`
+* `pyinstaller -D -w path/to/file/`
 
 If you want to run the client **using** python:
 
-*`python3 client.py`
+* `python3 client.py`
 
 ## Credits
 Thanks to Bucky for giving me someplace to get started with this project. [Bucky's Youtube](https://www.youtube.com/user/thenewboston)
