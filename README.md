@@ -32,6 +32,10 @@ If you want to run the client **using** python:
 
 * `python3 client.py`
 
+## Issues & Updates
+This is my first Python project, so I guarentee there will be issues. If you come across an issue, please let me know!
+I do plan on updating this quite a bit. If you have any ideas that you'd like to see implemented, let me know and I'll try to work them in.
+
 ## Credits
 Thanks to Bucky for giving me someplace to get started with this project. [Bucky's Youtube](https://www.youtube.com/user/thenewboston)
 Thanks to port443 on reddit for helping me fix a lot of my code. [port443's Reddit](https://www.reddit.com/user/port443)
