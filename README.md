@@ -7,9 +7,6 @@ I started this project for three main reasons:
 2. Create a way to gain a shell without being detected by Defender on Win10.
 3. Stop being such a script kiddy and learn something new.
 
-## Build status
-[![Build Status](https://travis-ci.org/mcgrenoa/python-reverse-tcp.svg?branch=master)](https://travis-ci.org/mcgrenoa/python-reverse-tcp)
-
 ## Installation & Usage
 Listener:
 If you need to change the port or host IP, then open it with a text editor.
