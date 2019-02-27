@@ -1,5 +1,5 @@
 ## ReverseTCPy
-**ReverseTCPy** is a Python 3 based reverse TCP tool.
+**ReverseTCPy** is a Python 3 based reverse TCP tool. **EDUCATIONAL PURPOSES ONLY**
 
 ## Motivation
 I started this project for three main reasons:
