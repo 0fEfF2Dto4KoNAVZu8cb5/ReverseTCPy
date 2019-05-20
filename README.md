@@ -24,7 +24,7 @@ Pyinstaller can be found [here](https://www.pyinstaller.org/).
 
 To package the client with pyinstaller:
 
-* `pyinstaller -D -w path/to/file/`
+* `pyinstaller -F -w path/to/file/`
 
 If you want to run the client **using** python:
 
